@@ -1,0 +1,4 @@
+/ {
+    // This creates the alias the nice!view shield is looking for
+    nice_view_spi: &spi0 {}; 
+};
